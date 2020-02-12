@@ -1,0 +1,2 @@
+# BackTranslationCorpusConstruction
+基于互联网翻译引擎的平行句对自动构造系统，使用数据回译再筛选方式利用互联网上公开翻译引擎构造双语平行句对。
