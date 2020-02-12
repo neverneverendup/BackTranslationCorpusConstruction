@@ -12,10 +12,11 @@ Back Translation（BT，回译）就是常用的一种基于单语的数据增�
 - 下载源码
 
       下载源码:git clone git@github.com:neverneverendup/BackTranslationCorpusConstruction.git
-      或者直接到   https://github.com/neverneverendup/BackTranslationCorpusConstruction 下载zip文件
+      或者直接到 https://github.com/neverneverendup/BackTranslationCorpusConstruction 下载zip文件
     
 - 安装依赖
-       pip install -r requirements.txt
+ 
+        pip install -r requirements.txt
    
 ### 使用
 - 配置
