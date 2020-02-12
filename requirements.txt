@@ -1,6 +1,6 @@
 nltk==3.2.5
 PyExecJS==1.5.1
-requests==2.9.2
+requests==2.20.0
 scipy==1.0.0
 numpy==1.17.0
 scikit_learn==0.22.1
